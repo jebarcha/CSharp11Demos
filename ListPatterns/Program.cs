@@ -16,6 +16,8 @@
 //    Console.WriteLine(string.Join(", ", rest));
 //}
 
+
+// Example 2:
 var emptyName = Array.Empty<string>();
 var myName = new[] { "Paul McCartney " };
 var myNameBrokenDown = new[] { "Paul", "McCartney " };
