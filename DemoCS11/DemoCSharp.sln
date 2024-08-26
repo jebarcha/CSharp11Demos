@@ -3,35 +3,39 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00 - DemoCS11", "00 - DemoCS11.csproj", "{133C1BDD-87AD-443B-AF9A-A5C1748F7CA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00 - DemoCS11", "00 - DemoCS11.csproj", "{133C1BDD-87AD-443B-AF9A-A5C1748F7CA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - RawStringLiterals", "..\RawStringLiterals\01 - RawStringLiterals.csproj", "{C7465775-5AC0-4551-8054-D629044F05C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 - RawStringLiterals", "..\RawStringLiterals\01 - RawStringLiterals.csproj", "{C7465775-5AC0-4551-8054-D629044F05C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - ListPatterns", "..\ListPatterns\02 - ListPatterns.csproj", "{9D9EF4BB-DDBF-4082-B5E0-C73A2FD79507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02 - ListPatterns", "..\ListPatterns\02 - ListPatterns.csproj", "{9D9EF4BB-DDBF-4082-B5E0-C73A2FD79507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - GenericAttributes", "..\GenericAttributes\03 - GenericAttributes.csproj", "{90851E71-DD33-401B-B42B-BDB51F369CDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03 - GenericAttributes", "..\GenericAttributes\03 - GenericAttributes.csproj", "{90851E71-DD33-401B-B42B-BDB51F369CDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - ExtendedNameOf", "..\ExtendedNameOf\04 - ExtendedNameOf.csproj", "{96F8588B-D66E-495A-8BAF-FD8E5A4C5D1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04 - ExtendedNameOf", "..\ExtendedNameOf\04 - ExtendedNameOf.csproj", "{96F8588B-D66E-495A-8BAF-FD8E5A4C5D1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - StringInterpolatedNewLine", "..\StringInterpolatedNewLine\06 - StringInterpolatedNewLine.csproj", "{4AC205A4-399A-4AB5-AB26-AC04B69A2DD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 - StringInterpolatedNewLine", "..\StringInterpolatedNewLine\06 - StringInterpolatedNewLine.csproj", "{4AC205A4-399A-4AB5-AB26-AC04B69A2DD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - Utf8StringLiterals", "..\Utf8StringLiterals\05 - Utf8StringLiterals.csproj", "{A72ADB8A-99DE-49EF-89F5-3C45A62C1EBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05 - Utf8StringLiterals", "..\Utf8StringLiterals\05 - Utf8StringLiterals.csproj", "{A72ADB8A-99DE-49EF-89F5-3C45A62C1EBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 - GenericMath", "..\GenericMath\07 - GenericMath.csproj", "{BFE60B15-B3DA-4B4A-95C1-89D5DF86A7D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07 - GenericMath", "..\GenericMath\07 - GenericMath.csproj", "{BFE60B15-B3DA-4B4A-95C1-89D5DF86A7D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 - RequiredMembers", "..\RequiredMembers\08 - RequiredMembers.csproj", "{A37973EB-A1A8-4096-9C99-4885FD1C0AAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08 - RequiredMembers", "..\RequiredMembers\08 - RequiredMembers.csproj", "{A37973EB-A1A8-4096-9C99-4885FD1C0AAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - FileScopedTypes", "..\FileScopedTypes\09 - FileScopedTypes.csproj", "{8C2DA5E6-B55D-4A28-9615-33E2EB100A7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09 - FileScopedTypes", "..\FileScopedTypes\09 - FileScopedTypes.csproj", "{8C2DA5E6-B55D-4A28-9615-33E2EB100A7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - PatternMatchSpan", "..\PatternMatchSpan\10 - PatternMatchSpan.csproj", "{1D6A7B32-ED5B-499E-92DF-2BADB2B66401}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10 - PatternMatchSpan", "..\PatternMatchSpan\10 - PatternMatchSpan.csproj", "{1D6A7B32-ED5B-499E-92DF-2BADB2B66401}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - AutoDefaultStruct", "..\AutoDefaultStruct\11 - AutoDefaultStruct.csproj", "{2BCD828B-60BC-402F-9BAC-8533D67BB63B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11 - AutoDefaultStruct", "..\AutoDefaultStruct\11 - AutoDefaultStruct.csproj", "{2BCD828B-60BC-402F-9BAC-8533D67BB63B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - ImprovedMethodGroup", "..\ImprovedMethodGroup\12 - ImprovedMethodGroup.csproj", "{CC42F640-72F5-478E-86EC-15A2D2DF8731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 - ImprovedMethodGroup", "..\ImprovedMethodGroup\12 - ImprovedMethodGroup.csproj", "{CC42F640-72F5-478E-86EC-15A2D2DF8731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 - NumericIntPtr", "..\NumericIntPtr\13 - NumericIntPtr.csproj", "{4058633D-5896-4B2A-8D70-227C50A66BD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 - NumericIntPtr", "..\NumericIntPtr\13 - NumericIntPtr.csproj", "{4058633D-5896-4B2A-8D70-227C50A66BD3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefFieldsScoped", "..\RefFieldsScoped\RefFieldsScoped.csproj", "{0003B7C1-3B8B-40A3-93B5-0F034EEAF66F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS11", "CS11", "{B7F34754-7FC0-45A6-BED5-59F83161E211}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS12", "CS12", "{5B835DAB-0568-4A0F-8640-07F41622CBF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -102,6 +106,22 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{133C1BDD-87AD-443B-AF9A-A5C1748F7CA0} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{C7465775-5AC0-4551-8054-D629044F05C6} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{9D9EF4BB-DDBF-4082-B5E0-C73A2FD79507} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{90851E71-DD33-401B-B42B-BDB51F369CDA} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{96F8588B-D66E-495A-8BAF-FD8E5A4C5D1C} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{4AC205A4-399A-4AB5-AB26-AC04B69A2DD4} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{A72ADB8A-99DE-49EF-89F5-3C45A62C1EBB} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{BFE60B15-B3DA-4B4A-95C1-89D5DF86A7D9} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{A37973EB-A1A8-4096-9C99-4885FD1C0AAB} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{8C2DA5E6-B55D-4A28-9615-33E2EB100A7C} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{1D6A7B32-ED5B-499E-92DF-2BADB2B66401} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{2BCD828B-60BC-402F-9BAC-8533D67BB63B} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{CC42F640-72F5-478E-86EC-15A2D2DF8731} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
+		{4058633D-5896-4B2A-8D70-227C50A66BD3} = {B7F34754-7FC0-45A6-BED5-59F83161E211}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {515AA503-8064-44B0-A49E-3A81E51DCD6C}
